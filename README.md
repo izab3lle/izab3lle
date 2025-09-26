@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,py,dotnet,postgres,linux" />
   </a>
