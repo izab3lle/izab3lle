@@ -4,13 +4,13 @@
 ### Olá, meu nome é Iza! 👋
 
 📖 Sou estudante de Análise e Desenvolvimento de Sistemas;
-<br>🌱 Atualmente, estou estudando React e Node;
+<br>🌱 Atualmente, estou estudando React Native;
 <br>📫 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/izabelle-tais)
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js,py,dotnetlinux,postgres" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,ts,js,dotnet,react,linux,postgres" />
   </a>
 </p>
